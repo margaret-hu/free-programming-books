@@ -30,6 +30,7 @@
 * [Golang](#golang)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
+    * [Material UI](#material-ui)
     * [Tailwind CSS](#tailwind-css)
 * [iOS](#ios)
 * [Java](#java)
@@ -250,6 +251,7 @@
 
 ### Compiler Design
 
+* [Compiler Design](https://www.youtube.com/playlist?list=PL1QH9gyQXfguPNDTsnG90W2kBDQpYLDQr) - The Gatehub
 * [Compiler Design](https://www.youtube.com/playlist?list=PL9FuOtXibFjVR-87LcU-DS-9TJcbG97_p) - Abhishek Sharma
 * [Compiler Design](https://www.youtube.com/playlist?list=PL23dd-8zssJBiyntds3X1sVWUDeb0Aa1N) - Start Practicing
 * [Compiler Design (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx) - KnowledgeGATE by Sanchit Sir
@@ -303,7 +305,6 @@
 * [3.1 DBMS In Hindi (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV) - Knowledge Gate
 * [Database Management System (DBMS)](https://www.youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn) - Education 4u
 * [Database Management System (DBMS) in Hindi](https://www.youtube.com/playlist?list=PLAOnhLRjMTMDigfUzaAAQo7lbfScPFtHs) - Jitendra Ajmedha
-* [DBMS (Database Management System)](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc) - Jenny's lectures CS/IT NET&JRF
 * [DBMS (Database Management System) Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
 * [DBMS Lectures in Hindi](https://www.youtube.com/playlist?list=PL0s3O6GgLL5dg3bZhTicr5zUITPAlZNjj) - Last moment tuitions 
 * [DBMS Placements Series 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp - by Babbar
@@ -408,6 +409,12 @@
 * [Bootstrap Tutorial In Hindi](https://www.youtube.com/watch?v=vpAJ0s5S2t0) - CodeWithHarry
 * [Bootstrap tutorial in Hindi \| Best Course](https://youtube.com/playlist?list=PL7akPJI4biSIQmT7fSHWoMRaNUcRbXHFN) - CodinGyaan
 * [Bootstrap Tutorial in Hindi With 2 Projects for Beginners \| Complete Bootstrap 5 Tutorial in Hindi](https://youtube.com/watch?v=QE5oQh63gGE) - Tech Gun
+
+
+#### Material UI
+
+* [Material UI Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PL8u9CiaEfFDaR0ipsKfHdnZccTm10J7-3) - Basics Adda
+* [Reactjs material ui in hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV4722H3_nosmpdjNXIPuBUXm) - Code Step By Step
 
 
 #### Tailwind CSS
